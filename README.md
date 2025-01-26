@@ -13,7 +13,7 @@ Passionate about continuous improvement and adept at crafting
 innovative solutions to complex software development challenges.
 .</p>
 
-
+<hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -37,14 +37,5 @@ innovative solutions to complex software development challenges.
 </div><hr>
 
 ###
-<div align="center">
-Contact:
-</div>
-<div align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=wpenarudas@gmail.com&tf=cm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a> 
-  <a href="https://www.linkedin.com/in/wpenarudas/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-</div>
+
 
