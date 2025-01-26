@@ -14,7 +14,6 @@ innovative solutions to complex software development challenges.
 .</p>
 
 
-<hr>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
