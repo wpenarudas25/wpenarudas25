@@ -10,11 +10,11 @@ Angular and MySQL. <br><br>Renowned for a strong commitment to delivering
 high-quality solutions, adaptability to evolving technologies, and a
 proactive approach to learning tools that enhance project outcomes.<br><br>
 Passionate about continuous improvement and adept at crafting
-innovative solutions to complex software development challenges.
+innovative solutions to complex software development challenges. 
 .</p>
 
 <hr>
-<div align="center">
+<div align="center ">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
