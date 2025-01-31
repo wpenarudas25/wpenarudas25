@@ -10,7 +10,7 @@ Angular and MySQL. <br><br>Renowned for a strong commitment to delivering
 high-quality solutions, adaptability to evolving technologies, and a
 proactive approach to learning tools that enhance project outcomes.<br><br>
 Passionate about continuous improvement and adept at crafting
-innovative solutions to complex software development challenges . 
+innovative solutions to complex software development challenges. 
 .</p>
 
 <hr>
